@@ -48,5 +48,9 @@ MySQL
 SQL
 GitHub
 
+## Database ER Diagram
+
+![ER Diagram](er_diagram.png)
+
 ## Author
 RESHMA
