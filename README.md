@@ -44,9 +44,12 @@ Products never ordered
 
 ## Tools Used
 
-MySQL
-SQL
-GitHub
+- SQL
+- Database Design
+- Data Analysis
+- ER Modeling
+- GitHub
+
 
 ## Database ER Diagram
 
