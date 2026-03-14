@@ -49,6 +49,4 @@ SQL
 GitHub
 
 ## Author
-
-Your Name
 RESHMA
