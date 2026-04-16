@@ -4,8 +4,6 @@
 
 Analyzed an e-commerce database using SQL to uncover sales trends, customer behavior, and product performance. The project focuses on generating actionable insights to support data-driven business decisions.
 
----
-
 ## ❗ Problem Statement
 
 Businesses often struggle to:
@@ -14,21 +12,15 @@ Businesses often struggle to:
 * Understand customer purchasing behavior
 * Detect underperforming products
 
----
-
 ## 💡 Solution
 
 Performed data analysis using SQL queries including joins, aggregations, and filtering on structured datasets to extract meaningful business insights.
-
----
 
 ## 🛠️ Tech Stack
 
 * SQL
 * Relational Database Design
 * ER Modeling
-
----
 
 ## 📊 Key Analysis Performed
 
@@ -38,16 +30,13 @@ Performed data analysis using SQL queries including joins, aggregations, and fil
 * Found **highest spending customers**
 * Detected **products with no sales**
 
----
-
 ## 📈 Results & Impact
 
 * Analyzed **10K+ sales records** to identify key business trends
 * Identified **top 5 products** contributing to major revenue
 * Discovered **high-value customers** for targeted marketing strategies
 * Highlighted **underperforming products** requiring business attention
-
----
+* Improved **data-driven decision-making** by identifying key revenue and customer trends
 
 ## 🗂️ Project Structure
 
@@ -56,13 +45,9 @@ Performed data analysis using SQL queries including joins, aggregations, and fil
 * **queries/** → Basic SQL queries
 * **advanced_queries/** → Complex queries and business insights
 
----
-
 ## 🖼️ ER Diagram
 
 ![ER Diagram](er_diagram.png)
-
----
 
 ## 🗄️ Database Schema Explanation
 
@@ -79,23 +64,19 @@ The database is designed using a relational structure with four main tables:
 * One **order** can contain multiple **order items** (1:N)
 * Each **order item** is linked to one **product** (N:1)
 
----
-
 ## 🔍 Sample Query Output
 
-### customers Data
+### Customers Data
 
 ![Output](customers_output.png)
 
 ### products Data
 
-![Output](Products_output.png)
+![Output](products_output.png)
 
 ### Top Revenue Generating Products
 
 ![Output](top_products.png)
-
----
 
 ## 🚀 Future Improvements
 
@@ -103,8 +84,7 @@ The database is designed using a relational structure with four main tables:
 * Use real-world large datasets
 * Automate reporting
 
----
-
 ## 👩‍💻 Author
 
 **Dudekula Reshma**
+
