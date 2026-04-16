@@ -78,10 +78,10 @@ This structure enables efficient querying using joins to analyze customer behavi
 
 ## 🔍 Sample Query Output  
 
-### Customers Data  
+### customers Data  
 ![Output](customers_output.png)
 
-### Products Data  
+### products Data  
 ![Output](Products_output.png)
 
 ### Top Revenue Generating Products  
