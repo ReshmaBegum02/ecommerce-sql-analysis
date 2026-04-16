@@ -82,7 +82,7 @@ This structure enables efficient querying using joins to analyze customer behavi
 ![Output](customers_output.png)
 
 ### products Data  
-![Output](Products_output.png)
+![Output](products_output.png)
 
 ### Top Revenue Generating Products  
 ![Output](top_products.png)
