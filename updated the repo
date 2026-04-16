@@ -1,0 +1,59 @@
+# 🛒 E-commerce Sales Data Analysis using SQL
+
+## 📌 Project Overview
+
+This project analyzes an E-commerce database to uncover sales patterns, customer behavior, and product performance using SQL. The goal is to generate actionable insights that can help improve business decisions.
+
+## ❗ Problem Statement
+
+Businesses often struggle to understand:
+
+* Which products generate the most revenue
+* Who their top customers are
+* Which products are underperforming
+
+## 💡 Solution
+
+Performed data analysis using SQL queries including joins, aggregations, and filtering on structured datasets to extract meaningful insights.
+
+## 🛠️ Tech Stack
+
+* SQL
+* Relational Database Design
+* ER Modeling
+
+## 📊 Key Analysis Performed
+
+* Identified **top-selling products**
+* Calculated **revenue per product**
+* Analyzed **customer purchase behavior**
+* Found **highest spending customers**
+* Detected **products with no sales**
+
+## 📈 Results & Insights
+
+* Discovered top 5 products contributing to major revenue
+* Identified high-value customers for targeted marketing
+* Highlighted underperforming products needing attention
+
+## 🗂️ Project Structure
+
+* **schema/** → Database creation scripts
+* **data/** → Sample data insertion
+* **queries/** → Basic SQL queries
+* **advanced_queries/** → Business insights & complex queries
+
+## 🖼️ ER Diagram
+
+![ER Diagram](er_diagram.png)
+
+## 🚀 Future Improvements
+
+* Integrate with Power BI for dashboard visualization
+* Use real-world large datasets
+* Automate reporting
+
+## 👩‍💻 Author
+
+**Dudekula Reshma**
+
