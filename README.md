@@ -83,11 +83,11 @@ The database is designed using a relational structure with four main tables:
 
 ## 🔍 Sample Query Output
 
-### Customers Data
+### customers Data
 
 ![Output](customers_output.png)
 
-### Products Data
+### products Data
 
 ![Output](Products_output.png)
 
