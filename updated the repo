@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-Analyzed an E-commerce database using SQL to uncover sales trends, customer behavior, and product performance. The project focuses on generating actionable insights to support data-driven business decisions.
+Analyzed an e-commerce database using SQL to uncover sales trends, customer behavior, and product performance. The project focuses on generating actionable insights to support data-driven business decisions.
 
 ## ❗ Problem Statement
 
@@ -47,7 +47,6 @@ Performed data analysis using SQL queries including joins, aggregations, and fil
 ## 🖼️ ER Diagram
 
 ![ER Diagram](er_diagram.png)
-“I used normalized relational schema to avoid redundancy and ensure efficient querying”
 
 ## 🗄️ Database Schema Explanation
 
@@ -76,5 +75,16 @@ This structure enables efficient querying using joins to analyze customer behavi
 ## 👩‍💻 Author
 
 **Dudekula Reshma**
+
+## 🔍 Sample Query Output  
+
+### Customers Data  
+![Output](customers_output.png)
+
+### Products Data  
+![Output](Products_output.png)
+
+### Top Revenue Generating Products  
+![Output](top_products.png)
 
 
