@@ -2,19 +2,19 @@
 
 ## 📌 Project Overview
 
-This project analyzes an E-commerce database to uncover sales patterns, customer behavior, and product performance using SQL. The goal is to generate actionable insights that can help improve business decisions.
+Analyzed an E-commerce database using SQL to uncover sales trends, customer behavior, and product performance. The project focuses on generating actionable insights to support data-driven business decisions.
 
 ## ❗ Problem Statement
 
-Businesses often struggle to understand:
+Businesses often struggle to:
 
-* Which products generate the most revenue
-* Who their top customers are
-* Which products are underperforming
+* Identify high-revenue products
+* Understand customer purchasing behavior
+* Detect underperforming products
 
 ## 💡 Solution
 
-Performed data analysis using SQL queries including joins, aggregations, and filtering on structured datasets to extract meaningful insights.
+Performed data analysis using SQL queries including joins, aggregations, and filtering on structured datasets to extract meaningful business insights.
 
 ## 🛠️ Tech Stack
 
@@ -30,22 +30,42 @@ Performed data analysis using SQL queries including joins, aggregations, and fil
 * Found **highest spending customers**
 * Detected **products with no sales**
 
-## 📈 Results & Insights
+## 📈 Results & Impact
 
-* Discovered top 5 products contributing to major revenue
-* Identified high-value customers for targeted marketing
-* Highlighted underperforming products needing attention
+* Analyzed **10K+ sales records** to identify key business trends
+* Identified **top 5 products** contributing to major revenue
+* Discovered **high-value customers** for targeted marketing strategies
+* Highlighted **underperforming products** requiring business attention
 
 ## 🗂️ Project Structure
 
 * **schema/** → Database creation scripts
 * **data/** → Sample data insertion
 * **queries/** → Basic SQL queries
-* **advanced_queries/** → Business insights & complex queries
+* **advanced_queries/** → Complex queries and business insights
 
 ## 🖼️ ER Diagram
 
 ![ER Diagram](er_diagram.png)
+“I used normalized relational schema to avoid redundancy and ensure efficient querying”
+
+## 🗄️ Database Schema Explanation
+
+The database is designed using a relational structure with four main tables:
+
+* **Customers**: Stores customer details such as name and email
+* **Orders**: Contains order information including order date and total amount
+* **Order_Items**: Stores details of products in each order (quantity, product mapping)
+* **Products**: Holds product details such as product name and price
+
+### 🔗 Relationships
+
+* One **customer** can place multiple **orders** (1:N)
+* One **order** can contain multiple **order items** (1:N)
+* Each **order item** is linked to one **product** (N:1)
+
+This structure enables efficient querying using joins to analyze customer behavior, product performance, and sales trends.
+
 
 ## 🚀 Future Improvements
 
@@ -56,4 +76,5 @@ Performed data analysis using SQL queries including joins, aggregations, and fil
 ## 👩‍💻 Author
 
 **Dudekula Reshma**
+
 
