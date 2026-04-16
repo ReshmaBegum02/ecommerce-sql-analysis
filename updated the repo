@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-Analyzed an e-commerce database using SQL to uncover sales trends, customer behavior, and product performance. The project focuses on generating actionable insights to support data-driven business decisions.
+Analyzed 10K+ e-commerce sales records using SQL (joins, aggregations, filtering) to identify revenue trends, top-performing products, and high-value customers, enabling data-driven business insights.
 
 ## ❗ Problem Statement
 
