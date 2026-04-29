@@ -1,8 +1,6 @@
 🛒 E-commerce Sales Data Analysis using SQL
-
------
+---
 ![ER Diagram](sql-er.png)
-
 ---
 📌 Project Overview
 
