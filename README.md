@@ -1,13 +1,13 @@
 🛒 E-commerce Sales Data Analysis using SQL
 
-_________________________________________________________________________________________________________________________________________________________________
+-----
 ![ER Diagram](sql-er.png)
 
-
+-----
 📌 Project Overview
 
 Analyzed 10K+ e-commerce sales records using SQL to identify revenue trends, top-performing products, and customer behavior for data-driven decision making.
-
+-----
 ❗ Problem Statement
 
 • Difficulty in identifying high-revenue products  
