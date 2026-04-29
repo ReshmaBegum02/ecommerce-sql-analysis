@@ -84,7 +84,7 @@ The database is designed using a relational structure with four main tables:
 * Use real-world large datasets
 * Automate reporting
 
-## 👩‍💻 Author
+## 👩‍💻 Created By
 
 **Dudekula Reshma**
 
